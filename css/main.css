@@ -12,13 +12,11 @@ html{
 img {
   width: 100%;
 }
-h1, h2, h3 {
-  font-family: 'Patua One', cursive;
-}
 
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: "Patua One", sans-serif;
 }
 
 figcaption {
@@ -29,6 +27,7 @@ figcaption {
 
 nav {
   font-size: 1.125rem;
+  font-family: "Patua One", sans-serif;
   font-weight: bold;
 }
 
